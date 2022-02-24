@@ -1,7 +1,7 @@
 # Easy Employee Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ## Description 
-This is a employee tracker command-line application for small business owner. Owners can view and manage the departments, roles, and employees in company so that owners can organize and plan their their business. 
+This is a employee tracker command-line application for small business owner. Owners can view and manage the departments, roles, and employees in company so that owners can organize and plan their business. 
 I used Node.js, Inquirer, MySQL and mysql2 to develop the application.
 ## Usage
 Users can run the command to start it up: 
